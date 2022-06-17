@@ -2,7 +2,7 @@
 
 👀 I’m interested in full stack development.
 
-🌱 I’m currently learning Drupal and Data Analytics.
+🌱 I’m currently learning React Typescript.
 
 📫 You can find me here:
 
