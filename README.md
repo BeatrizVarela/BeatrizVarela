@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Cypress/Cucumber.
 
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="20"/> What I've learned so far:
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
 - HTML/CSS/JS
 - React/React Typescript
 - Python
