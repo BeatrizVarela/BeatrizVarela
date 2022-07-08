@@ -12,6 +12,7 @@
 - PHP
 - Drupal
 - MySQL
+- RESTful API
 - HTTP Methods
 - Deploy and Hosting
 
