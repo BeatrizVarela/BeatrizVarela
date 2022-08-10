@@ -2,7 +2,7 @@
 
 👀 I’m interested in full stack development.
 
-🌱 I’m currently learning Cypress/Cucumber.
+🌱 I’m currently learning React Typescript.
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
 - HTML/CSS/JS
@@ -15,6 +15,7 @@
 - RESTful API
 - HTTP Methods
 - Deploy and Hosting
+- Cypress/Cucumber
 
 ---
 
