@@ -2,7 +2,7 @@
 
 👀 I’m interested in full stack development.
 
-🌱 I’m currently learning React Typescript.
+🌱 I’m currently re-learning Drupal.
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
 - HTML/CSS/JS
@@ -10,7 +10,7 @@
 - Python
 - Django/Django REST
 - PHP
-- Drupal
+- React Typescript
 - MySQL
 - RESTful API
 - HTTP Methods
