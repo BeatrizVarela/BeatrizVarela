@@ -2,7 +2,7 @@
 
 👀 I’m interested in full stack development.
 
-🌱 I’m currently re-learning Drupal.
+🌱 I’m currently re-learning Drupal with Lando.
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
 - HTML/CSS/JS
