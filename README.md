@@ -10,7 +10,6 @@
 - Python
 - Django/Django REST
 - PHP
-- React Typescript
 - MySQL
 - RESTful API
 - HTTP Methods
