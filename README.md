@@ -2,7 +2,7 @@
 
 👀 I’m interested in full stack development.
 
-🌱 I’m currently re-learning Drupal with Lando.
+🌱 I’m currently learning Vue.js.
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
 - HTML/CSS/JS
@@ -10,6 +10,7 @@
 - Python
 - Django/Django REST
 - PHP
+- Drupal with Lando
 - MySQL
 - RESTful API
 - HTTP Methods
