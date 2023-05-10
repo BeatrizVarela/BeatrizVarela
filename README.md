@@ -5,18 +5,31 @@
 🌱 I’m currently learning Vue.js.
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
-- HTML/CSS/JS
-- React/React Typescript
-- Python Web Dev
-- Django/Django REST
-- Drupal (PHP) with Lando
-- MySQL
-- RESTful API
-- HTTP Methods
-- Deploy and Hosting
-- Cypress/Cucumber
+<table>
+  <tr>
+    <td>HTML/CSS/JS</td>
+    <td>React/React Typescript</td>
+    <td>Python Web Dev</td>
+    <td>Django/Django REST</td>
+    <td>Drupal (PHP) with Lando</td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>RESTful API</td>
+    <td>HTTP Methods</td>
+    <td>Deploy and Hosting</td>
+    <td>Cypress/Cucumber</td>
+  </tr>
+</table>
 
----
+##
+
+<div align="center">
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=BeatrizVarela&show_icons=true&count_private=true&show_icons=true&theme=cobalt&border_radius=10" />
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizVarela&layout=compact&theme=cobalt&border_radius=10"/> 
+</div>
+
+##
 
 📫 You can find me here:
 
