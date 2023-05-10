@@ -7,10 +7,9 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="15"/> What I've learned so far:
 - HTML/CSS/JS
 - React/React Typescript
-- Python
+- Python Web Dev
 - Django/Django REST
-- PHP
-- Drupal with Lando
+- Drupal (PHP) with Lando
 - MySQL
 - RESTful API
 - HTTP Methods
