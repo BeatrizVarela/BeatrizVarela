@@ -21,6 +21,7 @@
 
 📫 You can find me here:
 
+- [SheCodes](https://www.shecodes.io/students/beatriz-varela)
 - [BitBucket](https://bitbucket.org/BeatrizVarela/)
 - [Postman](https://www.postman.com/beatrizvarela)
 - [Drupal](https://www.drupal.org/u/anabpv)
