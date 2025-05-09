@@ -1,6 +1,6 @@
 👋 **Hi, I’m Beatriz Varela**
 
-👀 I’m interested in full stack development.
+👀 I’m interested in UX/UI Design.
 
 🌱 I’m currently learning UI/UX Web Design.
 
